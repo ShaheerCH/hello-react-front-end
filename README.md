@@ -5,7 +5,7 @@ Quick example of a react app as a separate project consuming a rails endpoint. I
 displays it in a compontent when generate quote button is clicked
 
 ## Link to backend made with rails
-[hello-react-back-end](https://github.com/ShaheerCH/hello-rails-back-end)
+[hello-rails-back-end](https://github.com/ShaheerCH/hello-rails-back-end)
 
 
 ## Built With
